@@ -24,9 +24,9 @@ Here are a few websites and applications I’ve designed and developed:
 🔗 [www.forminterior.co.za](https://www.forminterior.co.za/) – A modern, visually-driven WordPress website developed for a luxury interior decor brand.<br>
 🔗 [www.absolute-htf.com](https://absolute-htf.com/) – WordPress corporate site<br>
 🔗 [www.psy-intl.com](https://psy-intl.com/) – WordPress corporate site<br>
-🔗 [www.auction.tirhani.com](https://auction.tirhani.com/login/) – A fully custom-built Auction Management System developed using PHP, MySQL, Bootstrap, jQuery, and AJAX. The platform handles the complete 
+🔗 [www.auction.tirhani.com](https://auction.tirhani.com) – A fully custom-built Auction Management System developed using PHP, MySQL, Bootstrap, jQuery, and AJAX. The platform handles the complete 
     auction lifecycle — including buyer/seller registration, catalog generation, bidding, invoicing, payments, reporting, and system auditing — with dynamic data handling and an automated email notification system.<br>
-🔗 [www.buyers.tirhani.com](https://buyers.tirhani.com/login) – A secure Buyers Portal designed for post-auction engagement, allowing users to submit FICA documents, view purchased products, and 
+🔗 [www.buyers.tirhani.com](https://buyers.tirhani.com) – A secure Buyers Portal designed for post-auction engagement, allowing users to submit FICA documents, view purchased products, and 
     access/download invoices. Built with PHP, MySQL, and AJAX for dynamic data interaction and a streamlined user experience. Features secure login, document management, and personalized dashboards.<br>
 
 <h4>📫 Get in Touch</h4>
