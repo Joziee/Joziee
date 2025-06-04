@@ -13,9 +13,9 @@ I'm a detail-oriented and highly efficient web developer with 8+ years of experi
 <h4>🌐 Live Projects</h4>
 Here are a few websites and applications I’ve designed and developed:
 
-🔗 [www.vantage-it.com](https://www.vantage-it.co.za/) – A custom WordPress WooCommerce eCommerce platform designed for efficient product browsing and secure online purchasing. Integrated with a secure 
+<!--🔗 [www.vantage-it.com](https://www.vantage-it.co.za/) – A custom WordPress WooCommerce eCommerce platform designed for efficient product browsing and secure online purchasing. Integrated with a secure 
      payment gateway for seamless transactions and connected to a third-party API for automated product listing and inventory updates. Built with a focus on performance, responsive design, and a user-friendly 
-     shopping experience.<br>
+     shopping experience.<br>-->
 🔗 [www.akesa.co.za](https://akesa.co.za/) – WordPress corporate site with custom theme and animations<br>
 🔗 [www.techdoctor.co.za](https://techdoctor.co.za/) – WordPress corporate site with custom theme and animations<br>
 🔗 [www.slyce.co.za](https://slyce.co.za/) – WordPress corporate site with custom theme and animations<br>
